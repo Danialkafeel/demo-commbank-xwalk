@@ -1,5 +1,5 @@
 # demo-commbank-xwalk
-This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe-rnd/aem-boilerplate-xwalk](https://github.com/adobe-rnd/aem-boilerplate-xwalk).
+This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
 
 ## Environments
 - Preview: https://main--demo-commbank-xwalk--Danialkafeel.hlx.page/
