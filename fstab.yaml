@@ -1,6 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p137653-e1386691.adobeaemcloud.com/bin/franklin.delivery/Danialkafeel/demo-commbank-xwalk/main"
-    type: "markup"
-    suffix: ".html"
-  
+  /: https://adobe.sharepoint.com/sites/AEMDemos/Shared%20Documents/sites/esaas-demos/demo-commbank-xwalk
