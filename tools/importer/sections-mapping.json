@@ -76,6 +76,64 @@
             "color": "rgba(75, 0, 130, 0.3)",
             "mapping": "columns",
             "customBlockName": ""
+          },
+          {
+            "id": "box-id--1511539938",
+            "x": 32,
+            "y": 2504,
+            "width": 1204,
+            "height": 2604,
+            "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"awards\")/div[@class=\"group\"]/div[@class=\"cardsV2\"]/div[@class=\"card-module-alt bottom-divider\"]/div[@class=\"card-combo standard-spacing three-column\"]/div[@class=\"card-section\"]/div[@class=\"carditem\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"awards\")/div[@class=\"group\"]/div[@class=\"cardsV2\"]/div[@class=\"card-module-alt bottom-divider\"]/div[@class=\"card-combo standard-spacing three-column\"]/div[@class=\"card-section\"]/div[@class=\"carditem\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"awards\")/div[@class=\"group\"]/div[@class=\"cardsV2\"]/div[@class=\"card-module-alt bottom-divider\"]/div[@class=\"card-combo standard-spacing three-column\"]/div[@class=\"card-section\"]/div[@class=\"carditem\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "columns",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-1686464488",
+            "x": 96,
+            "y": 5589,
+            "width": 1076,
+            "height": 390,
+            "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/ul[1]/li[1]",
+                "xpathWithDetails": "id(\"skipmaincontent\")/div[@class=\"container content-container\"]/div[@class=\"group-module\"]/div[@class=\"group\"]/div[@class=\"group-module\"]/div[@class=\"mobile-accordion-body\"]/div[@id=\"support\"]/div[@class=\"group\"]/div[@class=\"column\"]/div[@id=\"support\"]/div[@class=\"column-combo standard-spacing three-column\"]/div[@class=\"content-section\"]/ul[@class=\"item-section\"]/li[@class=\"item\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/ul[1]/li[2]",
+                "xpathWithDetails": "id(\"skipmaincontent\")/div[@class=\"container content-container\"]/div[@class=\"group-module\"]/div[@class=\"group\"]/div[@class=\"group-module\"]/div[@class=\"mobile-accordion-body\"]/div[@id=\"support\"]/div[@class=\"group\"]/div[@class=\"column\"]/div[@id=\"support\"]/div[@class=\"column-combo standard-spacing three-column\"]/div[@class=\"content-section\"]/ul[@class=\"item-section\"]/li[@class=\"item\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/ul[1]/li[3]",
+                "xpathWithDetails": "id(\"skipmaincontent\")/div[@class=\"container content-container\"]/div[@class=\"group-module\"]/div[@class=\"group\"]/div[@class=\"group-module\"]/div[@class=\"mobile-accordion-body\"]/div[@id=\"support\"]/div[@class=\"group\"]/div[@class=\"column\"]/div[@id=\"support\"]/div[@class=\"column-combo standard-spacing three-column\"]/div[@class=\"content-section\"]/ul[@class=\"item-section\"]/li[@class=\"item\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "columns",
+            "customBlockName": "columns-support"
           }
         ],
         "settings": {}
