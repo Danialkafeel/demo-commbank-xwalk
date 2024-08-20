@@ -2,8 +2,8 @@
 This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
 
 ## Environments
-- Preview: https://main--demo-commbank-xwalk--Danialkafeel.hlx.page/
-- Live: https://main--demo-commbank-xwalk--Danialkafeel.hlx.live/
+- Preview: https://main--demo-commbank-xwalk--Danialkafeel.hlx.page/credit-cards
+- Live: https://main--demo-commbank-xwalk--danialkafeel.hlx.live/credit-cards
 
 ## Installation
 
